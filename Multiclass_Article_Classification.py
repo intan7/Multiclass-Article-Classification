@@ -40,9 +40,7 @@ df.head()
 df.info()
 
 print(df['text'][20])
- # print(df['review'][10])
-
-df.groupby(['category','text']).agg({'category':'count'}).plot(kind='bar')
+print(df['text'][100])
 
 #No Symbols and HTML Tags to be removed
 #there's extra space
