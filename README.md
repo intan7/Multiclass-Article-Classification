@@ -22,6 +22,9 @@ which causing the waste of time and resources due to this arduous task. To solve
 >>  - You may go to http://localhost:6006/ to access yout tensorboard.
 ![alt text](https://github.com/intan7/Multiclass-Article-Classification/blob/main/static/run_tensor_cmd.png)
 
+# Deel Learning Model
+![alt text](https://github.com/intan7/Multiclass-Article-Classification/blob/main/static/model.png)
+
 # TensorBoard
 ![alt text](https://github.com/intan7/Multiclass-Article-Classification/blob/main/static/tensorboard_ss.png)
 
